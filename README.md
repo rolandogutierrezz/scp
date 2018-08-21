@@ -1,2 +1,0 @@
-# scp
-Second coding project
